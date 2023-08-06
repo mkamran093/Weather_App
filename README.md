@@ -1,7 +1,7 @@
 # Weather_App
 A weather app that show the current weather of major cities of the world.
 
-check the live demo here: https://incredible-unicorn-03e32d.netlify.app/
+check the live demo here: https://weather-app-346.netlify.app/
 
 ![Screenshot from 2023-08-06 19-59-55](https://github.com/mkamran093/Weather_App/assets/95133644/d63443b4-3be5-4cc6-95e1-7b68a553afa8)
 
